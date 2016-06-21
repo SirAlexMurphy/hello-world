@@ -1,4 +1,8 @@
-<p class="textOne">Before the button</p>
+<!DOCTYPE html>
+<html>
+<head></head>
+<body><p class="textOne">Before the button</p>
 <p class="textTwo">After the button</p>
 
 <div class="button">Click</div>
+</body></html>
